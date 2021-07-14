@@ -1,5 +1,7 @@
 # Coding Challenge:
 
+to install requirements, type `pip3 install -r requirements.txt`
+
 to run, cd into directory and type `python3 rest_api.py`
 
 to hit endpoints, type either `http://127.0.0.1:3751/json/<orgname:relcount:labor>` for the json endpoint
